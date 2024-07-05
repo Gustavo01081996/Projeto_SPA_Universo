@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html{
+    background-image: url("./assets/background-image.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    min-height: 100%;
+ 
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+nav{
+    display: flex;
+    gap: 32px;
+    align-items: center;
+    height: 122px;
+    
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    gap: 32px;
+}
+
+nav img {
+    margin-left: 72px;
+    width: 50px;
+    height: 42px;
+   
+  
+}
+
+nav ul li a{
+    color: rgb(174, 174, 174);
+    text-decoration: none;
+    font-size: 22px;
+}
+
+nav ul li a:hover{
+    
+    color:white;
+    transition: .5s;
+}
+
+
+main .content {
+    margin: 0 auto 294px;
+    display: grid;
+    justify-self: center;
+}
+
+main .content h1{
+    margin: 172px auto 0;
+}
+
+main .content h1, main .content h2{
+    font-weight: bold;
+    color: white;
+   
+   
+}
+
+main .content button{
+    margin: 24px auto 0;
+    color: white;
+    background: none;
+    border-color: white;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 12px 32px;
+}
+
+main .content button:hover{
+    transform: scale(1.1);
+    transition: .5s;
+    cursor: pointer;
+}
+
+main .content  .textExplore, main .content .textUniverse{
+    width: 648px;
+    margin-top: 16px;
+    line-height: 160%;
+    margin-left: 102px;
+}
+
+main .content h2{
+    margin-left: 102px;
+    margin-top: 63px;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+
+main .content .textExplore p, main .content .textUniverse p{
+    color: white;
+    font-size: 18px;
+
+}
+
