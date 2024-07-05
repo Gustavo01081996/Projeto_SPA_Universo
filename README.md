@@ -1,6 +1,6 @@
 # Projeto_SPA_Universo
 
-Esse projeto é landing page criada utilizando conceitos de Single Page Aplication (SPA), criando uma experiência fluida para o usuário, sem a necessidade de recarregar a página. Ideal para quem quer aprender ou apirmorar as habilidades em desenvolvimento Web
+Essa é uma landing page criada utilizando conceitos de Single Page Aplication (SPA), criando uma experiência fluida para o usuário, sem a necessidade de recarregar a página. Ideal para quem quer aprender ou apirmorar as habilidades em desenvolvimento Web
 
 
 # Tecnologias Utilizadaa
